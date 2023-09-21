@@ -1,5 +1,4 @@
 columns_to_drop = [
-'fecha_alta',
 'longitud',
 'latitud',
 'tipoUniEco',
